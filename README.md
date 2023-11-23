@@ -7,6 +7,11 @@ Calibration de matrices de corrélations à partir d’historiques
 ### Fixed income & LIBOR model
 - The Libor Market Model: from theory to calibration (~150 pages) proposé par Sanaa
 https://amslaurea.unibo.it/2288/1/riga_candia_tesi.pdf
+- Correlation parameterization and calibration for the LIBOR market model (trouvé par Jean)
+https://www.packham.net/index_files/Thesis.pdf
+- Calibration and Parameterization Methods for the Libor Market Model 
+https://link.springer.com/book/10.1007/978-3-658-04688-0
+
 
 ### Random Matrix Theory
 - Covariance matrix filtering with bootstrapped hierarchies **BAHC** _(proposé par Christian)_
